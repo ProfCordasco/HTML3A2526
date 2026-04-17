@@ -1,5 +1,5 @@
 body {
-  background-color: light-blue;
+  background-color: pink;
 }
 
 p {
@@ -12,5 +12,5 @@ p {
 }
 
 #soloquesto {
-  font-bold;
+  font-weight: bold;
 }
